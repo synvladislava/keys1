@@ -375,6 +375,9 @@
 }
 
 @media (max-width: 576px) {
+  .header {
+    background-position: center;
+  }
   .header__content {
     text-align: center;
   }
