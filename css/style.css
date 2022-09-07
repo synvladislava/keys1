@@ -332,6 +332,7 @@
   .item__text {
     font-size: 17px;
     padding: 20px 0;
+    width: 111px;
   }
   .story__desc {
     width: 384px;
@@ -444,7 +445,7 @@
   }
   .item__text {
     font-size: 15px;
-    width: 96px;
+    width: 95px;
   }
   .story__desc,
   .story__span {
@@ -458,6 +459,12 @@
   }
   .card__span {
     font-size: 17px;
+  }
+}
+
+@media (max-width: 427px) {
+  .item__text {
+    width: 130px;
   }
 }
 
