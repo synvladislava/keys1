@@ -29,7 +29,7 @@
   background-image: url(../img/header_img.png);
   /* background-position: top; */
   background-repeat: no-repeat;
-  /* background-attachment: fixed; */
+  background-attachment: fixed;
   background-size: cover;
   background-color: #d83526;
   width: 100%;
