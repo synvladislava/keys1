@@ -325,6 +325,10 @@
   .icon-menu {
     display: block;
   }
+  .header {
+    background-position: 0;
+    background-attachment: none;
+  }
   .story__btn {
     width: 250px;
   }
