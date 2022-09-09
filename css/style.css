@@ -29,7 +29,7 @@
   background-image: url(../img/header_img.png);
   background-position: center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: scroll;
   background-size: cover;
   background-color: #d83526;
   width: 100%;
@@ -324,9 +324,6 @@
   }
   .icon-menu {
     display: block;
-  }
-  .header {
-    background-attachment: scroll;
   }
   .story__btn {
     width: 250px;
