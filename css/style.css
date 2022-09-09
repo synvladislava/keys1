@@ -326,8 +326,7 @@
     display: block;
   }
   .header {
-    background-position: 0;
-    background-attachment: none;
+    background-attachment: scroll;
   }
   .story__btn {
     width: 250px;
